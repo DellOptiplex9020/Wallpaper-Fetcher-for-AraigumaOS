@@ -7,3 +7,7 @@
 ## Issues
 - Currently only fetches Amongus wallpapers
 - Only in Czech
+
+![Screenshot](screenshot.png)
+
+https://araigumawindowsmods.com
