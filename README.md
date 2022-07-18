@@ -8,6 +8,8 @@
 - Currently only fetches Amongus wallpapers
 - Only in Czech
 
+# Screenshots
+
 ![Screenshot](screenshot.png)
 
 https://araigumawindowsmods.com
