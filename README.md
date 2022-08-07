@@ -5,6 +5,7 @@
 
 ## Features
 - Currently uses DeviantArt, FurAffinity, e621 **SFW only** as sources
+- Added tag support for DeviantArt
 
 ## Issues
 - None right now
