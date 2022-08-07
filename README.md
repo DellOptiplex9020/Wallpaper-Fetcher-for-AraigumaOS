@@ -4,13 +4,13 @@
 **PLEASE FILE ISSUES IN [THIS](https://github.com/FigmaObsession/araigumaos) REPO**
 
 ## Features
-- Added DeviantArt as a source
+- Currently uses DeviantArt, FurAffinity, e621 **SFW only** as sources
 
 ## Issues
-- Currently only fetches Amongus wallpapers
+- None right now
 
 # Screenshots
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshotEN.png)
 
 https://araigumawindowsmods.com
